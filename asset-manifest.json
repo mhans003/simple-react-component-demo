@@ -1,13 +1,13 @@
 {
-  "main.css": "/simple-react-component-demo/static/css/main.5f8db0c0.chunk.css",
-  "main.js": "/simple-react-component-demo/static/js/main.fa115e24.chunk.js",
-  "main.js.map": "/simple-react-component-demo/static/js/main.fa115e24.chunk.js.map",
-  "static/js/1.2fe522aa.chunk.js": "/simple-react-component-demo/static/js/1.2fe522aa.chunk.js",
-  "static/js/1.2fe522aa.chunk.js.map": "/simple-react-component-demo/static/js/1.2fe522aa.chunk.js.map",
+  "main.css": "/simple-react-component-demo/static/css/main.4f0b7cee.chunk.css",
+  "main.js": "/simple-react-component-demo/static/js/main.42e173cd.chunk.js",
+  "main.js.map": "/simple-react-component-demo/static/js/main.42e173cd.chunk.js.map",
+  "static/js/1.ed056aac.chunk.js": "/simple-react-component-demo/static/js/1.ed056aac.chunk.js",
+  "static/js/1.ed056aac.chunk.js.map": "/simple-react-component-demo/static/js/1.ed056aac.chunk.js.map",
   "runtime~main.js": "/simple-react-component-demo/static/js/runtime~main.6aa41393.js",
   "runtime~main.js.map": "/simple-react-component-demo/static/js/runtime~main.6aa41393.js.map",
-  "static/css/main.5f8db0c0.chunk.css.map": "/simple-react-component-demo/static/css/main.5f8db0c0.chunk.css.map",
+  "static/css/main.4f0b7cee.chunk.css.map": "/simple-react-component-demo/static/css/main.4f0b7cee.chunk.css.map",
   "index.html": "/simple-react-component-demo/index.html",
-  "precache-manifest.ad637b167dbd69217c30a41b56d6bd29.js": "/simple-react-component-demo/precache-manifest.ad637b167dbd69217c30a41b56d6bd29.js",
+  "precache-manifest.2d098f64b8a50cf76e6b6d9d531948aa.js": "/simple-react-component-demo/precache-manifest.2d098f64b8a50cf76e6b6d9d531948aa.js",
   "service-worker.js": "/simple-react-component-demo/service-worker.js"
 }
