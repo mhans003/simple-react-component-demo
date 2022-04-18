@@ -36,9 +36,9 @@ const AddUser = props => {
             return;
         }
 
-        //Demo output in console
-        console.log(enteredUsername);
-        console.log(enteredAge);
+        //Using onAddUser prop passed in from App, add new user using current state; Passes this data back into App
+        //Triggers addUserHandler back in App
+        props.onAddUser(enteredUsername, enteredAge);
 
         //Reset state values
         setEnteredUsername('');
